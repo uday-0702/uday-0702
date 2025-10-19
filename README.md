@@ -27,7 +27,7 @@
 <ul>
   <li>🎹 <b>Pianist</b> — exploring the harmony between music and mathematics</li>
   <li>🚗 <b>Car modeling enthusiast</b> — blending design, mechanics, and creativity</li>
-  <li>📚 <b>Deeply interested in philosophy</b> — especially consciousness, causality, and logic</li>
+  <!-- <li>📚 <b>Deeply interested in philosophy</b> — especially consciousness, causality, and logic</li> -->
 </ul>
 
 ### 💬 Ask me about

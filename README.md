@@ -1,44 +1,41 @@
-\documentclass[a4paper,12pt]{article}
-\usepackage{fontspec}
-\usepackage{xcolor}
-\usepackage{hyperref}
-\setmainfont{DejaVu Sans}
+<div align="center">
 
-\hypersetup{
-    colorlinks=true,
-    linkcolor=black,
-    urlcolor=blue,
-}
+<h1>👋 Hi there, I'm <b>Uday Mathur</b></h1>
 
-\begin{document}
+<p>🎓 <b>Quantum Engineer in the making</b> | Integrated Dual Degree Student</p>
+<p>⚛️ Passionate about making <b>quantum technologies scalable and accessible</b></p>
 
-\begin{center}
-    {\Huge \textbf{Hi there 👋 I'm Uday Mathur}}\\[0.5em]
-    🎓 \textbf{Quantum Engineer in the making} \,|\, Integrated Dual Degree Student\\
-    ⚛️ Passionate about making \textbf{quantum technologies scalable and accessible}\\[1em]
-\end{center}
+</div>
 
-\section*{🔭 Currently}
-\begin{itemize}
-    \item Designing \textbf{superconducting quantum chips} (Qiskit Metal · KQCircuits · Ansys)
-    \item Simulating \textbf{hybrid quantum systems} with plasmon–magnon coupling
-    \item Exploring \textbf{pulse shaping} (DRAG · HD DRAG · FAST DRAG) for leakage suppression
-\end{itemize}
+---
 
-\section*{🌱 Learning}
-\begin{itemize}
-    \item \textbf{Quantum control \& calibration} of superconducting qubits
-    \item \textbf{Noise mitigation} and \textbf{open quantum systems}
-\end{itemize}
+### 🔭 Currently
+<ul>
+  <li>Designing <b>superconducting quantum chips</b> (Qiskit Metal · KQCircuits · Ansys)</li>
+  <li>Simulating <b>hybrid quantum systems</b> with plasmon–magnon coupling</li>
+  <li>Exploring <b>pulse shaping</b> (DRAG · HD DRAG · FAST DRAG) for leakage suppression</li>
+</ul>
 
-\section*{💬 Ask me about}
-Quantum hardware simulation · EPR analysis · Pulse optimization
+### 🌱 Learning
+<ul>
+  <li><b>Quantum control & calibration</b> of superconducting qubits</li>
+  <li><b>Noise mitigation</b> and <b>open quantum systems</b></li>
+</ul>
 
-\section*{📫 Reach me}
-📧 \href{mailto:udaymathur0702@gmail.com}{udaymathur0702@gmail.com}\\
-🔗 \href{https://linkedin.com/in/udaymathur0702}{linkedin.com/in/udaymathur0702}
+### 💬 Ask me about
+<p>Quantum hardware simulation · EPR analysis · Pulse optimization</p>
 
-\section*{⚡ Fun fact}
-I debug circuits and quantum code with equal curiosity — and usually at midnight 🌙
+### 📫 Reach me
+<p>
+  📧 <a href="mailto:udaymathur0702@gmail.com">udaymathur0702@gmail.com</a><br>
+  🔗 <a href="https://linkedin.com/in/udaymathur0702" target="_blank">linkedin.com/in/udaymathur0702</a>
+</p>
 
-\end{document}
+### ⚡ Fun fact
+<p>I debug circuits and quantum code with equal curiosity — and usually at midnight 🌙</p>
+
+---
+
+<div align="center">
+  <p>✨ <i>Thanks for visiting my profile!</i> ✨</p>
+</div>
